@@ -1,6 +1,8 @@
 # resizeImagesBash
 Resizing images in bash
+
 This is a modification of the source code found on the page: 
+
 https://hardc0l2e.wordpress.com/2009/05/29/reduce-image-resolution-bash-script/
 
 
